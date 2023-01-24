@@ -1,0 +1,23 @@
+.statistics {
+  margin: 0 auto;
+  font-family: 'Lato', sans-serif;
+  width: 340px;
+  border: 1px solid #f0f3f6;
+  margin-bottom: 20px;
+}
+
+.title {
+  margin: 0;
+  text-align: center;
+  font-size: 16px;
+  padding: 30px 0;
+  text-transform: uppercase;
+}
+
+.statList {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
